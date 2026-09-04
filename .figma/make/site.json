@@ -1,0 +1,10 @@
+{
+  "description": "Interactive romantic webpage with a playful no-button trick and elegant book-inspired design, optimized for mobile to delight and engage users.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

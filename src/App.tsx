@@ -5,8 +5,11 @@ const NO_STATES = [
   { label: "Tem certeza?", subtext: null },
   { label: "Não adianta ", subtext: null },
   { label: "Você vai continuar tentando?", subtext: null },
-  { label: "…para de apertar?", subtext: null },
+  { label: "…para de apertar", subtext: null },
   { label: "Ok, desisto ", subtext: null },
+  { label: "Tá de sacanagem?", subtext: null },
+  { label: "kkkkkkkk", subtext: null },
+  { label: "Aperta SIM logo", subtext: null },
 ];
 
 function Stars() {
